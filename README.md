@@ -725,18 +725,6 @@ Espero que você tenha um bom proveito com o conteúdo aqui, segue meu github, c
 🔖 [Pessonizando](https://www.youtube.com/c/pessonizando) - Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. <br>
 🔖 [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
 
-## 📚 Pentest
-
-🔖 [Beef-Project](https://beefproject.com/) - Framework de exploração de browser <br>
-🔖 [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
-🔖 [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
-🔖 [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem <br>
-🔖 [HTTRack](http://www.httrack.com/) - Browser utility <br>
-🔖 [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa <br>
-🔖 [NMap](https://nmap.org/) - Scanner de portas de rede <br>
-🔖 [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
-🔖 [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
-
 ## 📚 Blogs e Podcasts
 
 🔖 [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral <br>
